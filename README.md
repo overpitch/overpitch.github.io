@@ -12,3 +12,4 @@ Each game has its own address:
 - [Snakes](https://overpitch.github.io/snakes/)
 - [Evil One](https://overpitch.github.io/evil-one/)
 - [Devilization](https://overpitch.github.io/devilization/)
+- [Master of Magic](https://overpitch.github.io/mom/) (needs the family password; it lives in the [mom](https://github.com/overpitch/mom) project)
